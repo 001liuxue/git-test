@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("我是谢俊龙");
         System.out.println("我是刘雪");
         System.out.println("master branch");
+        System.out.println("hot-fix branch");
     }
 }
