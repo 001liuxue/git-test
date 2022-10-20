@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("我是刘雪");
         System.out.println("master branch");
         System.out.println("hot-fix branch");
+        System.out.println("push test");
     }
 }
