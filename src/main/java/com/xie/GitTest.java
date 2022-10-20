@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("master branch");
         System.out.println("hot-fix branch");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
